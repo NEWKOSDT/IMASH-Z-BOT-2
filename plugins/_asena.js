@@ -14,7 +14,7 @@ const Lang = Language.getString('_asena');
 
 if (Config.WORKTYPE == 'private') {
 
-    Asena.addCommand({pattern: 'imash ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'z ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
         
         var CMD_HELP = '';
         if (match[1] === '') {
@@ -246,7 +246,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
     return sonuc.includes(true);
 }
 
-     Asena.addCommand({pattern: 'imash ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+     Asena.addCommand({pattern: 'z ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
          var us = await checkUsAdmin(message);
          if (!us) return await message.client.sendMessage(message.jid,Lang.PLKADMIN ,MessageType.text ,{quoted: message.data });
 
