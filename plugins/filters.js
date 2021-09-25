@@ -61,7 +61,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./Uploads/imash.m
 await message.client.sendMessage(message.jid, fs.readFileSync('Uploads/imash.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         
-const array = ['ah','Imash','Gm','imash','alive','fernando','nidusha','shano','Hi','bye','ooi','salenna','sorry','help','kingdom','baya','love','sad','fuck']
+const array = ['ah','Imash','Gm','imash','alive','fernando','nidusha','shano','Hi','bye','ooi','salenna','sorry','help','kingdom','baya','love','sad','fuck','z']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -120,9 +120,9 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
     if (!!message.mention && message.mention[0] == '94771323434@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Amalser/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+await message.client.sendMessage(message.jid, fs.readFileSync('./Amalser/alive.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['alive','ammo','Asitha','duka','fuck','Gm','help','himashi','Hm','imaah','nawangi','love','nidusha','ooi','pakaya','palayan','praneeth','song','tharahai']
+const array = ['alive','z','ammo','Asitha','duka','fuck','Gm','help','himashi','Hm','imaah','nawangi','love','nidusha','ooi','pakaya','palayan','praneeth','song','tharahai']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
