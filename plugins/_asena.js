@@ -464,7 +464,7 @@ else if (Config.WORKTYPE == 'public') {
         }
     })); 
 
-    Asena.addCommand({pattern: 'imash ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({pattern: 'z ?(.*)', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
         
         var CMD_HELP = '';
         if (match[1] === '') {
