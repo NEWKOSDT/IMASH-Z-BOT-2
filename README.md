@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/cyberchekuthan">iMASH BOT</a> to 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Z-BOT999/IMASH-Z-BOT-2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NEWKOSDT/IMASH-Z-BOT-2) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
