@@ -172,7 +172,7 @@
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*Give me a photo!*",
             "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
-            "RBGING": "```Removing background...```"
+            "RBGING": "```Z is Removing background...```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -225,7 +225,7 @@
         },
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
-            "ADMİN": "*I am not admin in this group!*",
+            "ADMİN": "*Z is not admin in this group!*",
             "SCAN": "Checks whether the entered number is registered on WhatApp.",
             "NO": "*Please Enter Any Phone Number!*\n*Example:* ```.scan 90xxxx```",
             "SUC": "*Numbered Person Uses WhatsApp! ✅*",
@@ -269,7 +269,7 @@
             "SUC": "*Message Successfully Saved to LOG!*"
         },
         "weather": {
-            "WEATHER_DESC": "Shows the weather.",
+            "WEATHER_DESC": "Z is shows the weather.",
             "NEED_LOCATION": "* Please write a location!*\n*Example:* ```.weather Bakü```",
             "LOCATION": "Location",
             "HMOD": "Finds mod apps from happymod",
@@ -396,12 +396,12 @@
             "GÜNÜÇMUTE": "*The group was silenced for 3 day!*",
             "TÜR": "*Unknown Command!*\n_Minute: 1-59m_\n_Hour: 1-12h_\n_Day: 1d-3d_",
             "MUTE_DESC": "Turns off group chat. Only admins can send messages!",
-            "MUTE_OPEN": "```The group chat has unmuted!```"
+            "MUTE_OPEN": "```The group chat has unmuted by Z!```"
         },
         "unvoice": {
             "UV_DESC": "Converts audio to sound recording.",
             "UV_REPLY": "*You Must Reply to the Audio File!*",
-            "UV_PROC": "```Converting to Sound Recording..```"
+            "UV_PROC": "```Z is Converting to Sound Recording..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
@@ -438,16 +438,16 @@
             "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "Converts text to plain painting.",
+            "TTP_DESC": "Z is Converts text to plain painting.",
             "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
-            "NEED_WORD": "*You must enter words!*",
+            "NEED_WORD": "*Hello User you must enter words!*",
             "ANIME_DESC": "It writes the text inside the banner the anime girl is holding",
             "TRUMP_DESC": "Converts the text to Trump's tweet.",
             "CHANGE_DESC": "Turns the text into the change my mind poster.",
             "GLOW_DESC": "Converts text into neon painting."
         },
         "wallpaper": {
-            "WP": "It sends high resolution wallpapers."
+            "WP": "Z BOT is sends high resolution wallpapers."
         },
         "webss": {
             "SS_DESC": "Takes a screenshot from the page in the given link.",
