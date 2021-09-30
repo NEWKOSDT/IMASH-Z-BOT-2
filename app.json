@@ -18,7 +18,7 @@
 
     "env": {
 
-        "JULIE_SESSION": {
+        "IMASH_SESSION": {
 
             "description": "Type here yours IMASH Session.",
 
