@@ -1,14 +1,14 @@
 {
-  "name": "JulieMwol",
-  "version": "7.3.6",
-  "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+  "name": "zbot",
+  "version": "7.3.9",
+  "description": "Z is the Modified Version of WhatsAsena, Made By @Z-BOT999 with Baileys.",
   "main": "./Julie-Mwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/farhan-dqz/Julie-Mwol.git"
+    "url": "git+https://github.com/Z-BOT999/IMASH-Z-BOT-2.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "farhan-dqz",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "author": "imash nidusha",
+  "developer": "@TOXIC-DEVIL / @Z-BOT999",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"
+    "url": "https://github.com/Z-BOT999/IMASH-Z-BOT-2/issues"
   },
-  "homepage": "https://github.com/farhan-dqz/Julie-Mwol#readme",
+  "homepage": "https://github.com/Z-BOT999/IMASH-Z-BOT-2#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
