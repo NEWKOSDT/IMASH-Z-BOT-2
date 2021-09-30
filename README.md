@@ -1,7 +1,9 @@
 <div align="center">
+ 
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3EF76A&lines=THIS+IS+IMASH+BOT;THIS+BOT+OWNER+IS+IMASH+NIDUSHA)](https://git.io/typing-svg)
+<div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3EF76A&lines=THIS+IS+IMASH+BOT;THIS+BOT+OWNER+IS+IMASH+NIDUSHA)](https://git.io/typing-svg)
-
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=771323434+-+WHATSAPP;MY+NUMBER+)](https://git.io/typing-svg)<div align="center">
  </a>
 </p>
 <div align="center">
