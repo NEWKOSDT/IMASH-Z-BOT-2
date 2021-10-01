@@ -18,9 +18,10 @@ Asena.addCommand({pattern: 'device ?(.*)', fromMe: true, desc: Lang.DEVICE , don
     
 const {data} = await axios(`https://zenzapi.xyz/api/gsmarena?query=${match[1]}&apikey=a9a05974d30e`)
 const { status, result } = data
-if(!status) return await message.sendMessage('not found')
+if(!status) return await message.sendMessage('please enter device name👾 ex:.device poco x3 pro')
 await message.client.sendMessage(message.jid, LOAD_ING , MessageType.text, { quoted: message.data });
 let msg = '```'
+msg +=  `Z is UPLOADING YOUR DEVICE INFO\n\n`
 msg +=  `NAME          :${result.judul}\n\n`
 msg +=  `DATE          :${result.rilis}\n\n`
 msg +=  `WEIGHT        :${result.ukuran}\n\n`
@@ -43,7 +44,7 @@ else if (Config.WORKTYPE == 'public') {
     
         const {data} = await axios(`https://zenzapi.xyz/api/gsmarena?query=${match[1]}&apikey=a9a05974d30e`)
         const { status, result } = data
-        if(!status) return await message.sendMessage('not found')
+        if(!status) return await message.sendMessage('please enter device name👾 ex:.device poco x3 pro')
         await message.client.sendMessage(message.jid, LOAD_ING , MessageType.text, { quoted: message.data });
         let msg = '```'
         msg +=  `NAME          :${result.judul}\n\n`
