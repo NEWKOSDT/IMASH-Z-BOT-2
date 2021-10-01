@@ -47,6 +47,7 @@ else if (Config.WORKTYPE == 'public') {
         if(!status) return await message.sendMessage('please enter device name👾 ex:.device poco x3 pro')
         await message.client.sendMessage(message.jid, LOAD_ING , MessageType.text, { quoted: message.data });
         let msg = '```'
+        msg +=  `Z is UPLOADING YOUR DEVICE INFO\n\n`
         msg +=  `NAME          :${result.judul}\n\n`
         msg +=  `DATE          :${result.rilis}\n\n`
         msg +=  `WEIGHT        :${result.ukuran}\n\n`
