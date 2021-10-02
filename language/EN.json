@@ -82,7 +82,7 @@
             "RESTART_DESC": "Restart Z BOT",
             "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown Z BOT",
-            "SHUTDOWN_MSG": "```Shutting down ⛔```",
+            "SHUTDOWN_MSG": "```Z IS Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -97,7 +97,7 @@
             "DELVAR_DESC": "Delete heroku config var",
             "DEL_SUCCESS": "```{} successfully deleted```",
             "NOT_FOUND": "```no results found for this key```",
-            "SUCC": "*Successfully Setted Up ✅* \n*Please wait a little while.*",
+            "SUCC": "*Successfully Setted Up 🥰* \n*Please wait a little while.*",
             "SUCC_AF": "*To restore, use* ```default```",
             "DEGİS_NONE": "```Please Enter Any Module Name!``` \n\n*.degis afk*\n*.degis alive* << **Variables** >> \n_{pp}: You only need to use it once. Adds your profile photo to the message._ \n_{info}: Shows your status._ \n_{version}: Shows the version of the bot._ \n_{plugin}: Shows the plugin channel._\n*.degis ban*\n*.degis add*\n*.degis mute*\n*.degis unmute*\n*.degis promote*\n*.degis demote*\n*.degis welcome* \n*.degis goodbye* \n*.degis kickme*\n*.degis block*\n*.degis unblock*",
             "WR": "*Please use the modules that exists!*",
@@ -112,22 +112,22 @@
             "STOP_DESC": "Stops the filter you added previously.",
             "NEED_FILTER": "*❌ Please type a filter!*\n*Example:*",
             "ALREADY_NO_FILTER": "*❌ There is already no filter like this!*",
-            "DELETED": "*✅ The filter was successfully deleted!*"
+            "DELETED": "*🥰The filter was successfully deleted!*"
         },
         "greetings": {
             "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
             "NOT_SET_WELCOME": "*You don't set the welcome message yet.!*\n**To set:** ```.welcome hi && hi#how are you?```",
-            "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
+            "WELCOME_ALREADY_SETTED": "*🥰Welcome message already set!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome hi && hi#how are you?```",
-            "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅ Welcome message has been set successfully!*",
+            "WELCOME_DELETED": "*🥰Welcome message has been deleted successfully!*",
+            "WELCOME_SETTED": "*🥰Welcome message has been set successfully!*",
             "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​ 🇮​🇫​ 🇾​🇴​🇺​ 🇹​🇷​🇾​ 🇾​🇴​🇺​ 🇼​🇮​🇱​🇱​ 🇧​🇪​ 🇷​🇪​🇲​🇴​🇻​🇪​🇩​ 🇧​🇾​ 🇦​🇩​🇲​🇮​🇳​🇸​",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye bye && bye#see ya```",
-            "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
+            "GOODBYE_ALREADY_SETTED": "*🥰Goodbye message has been set!*\n*Message:* ```",
             "NEED_GOODBYE_TEXT": "*You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye bye && bye#see ya```",
-            "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-            "GOODBYE_SETTED": "*✅ Goodbye message has been setted successfully!*"
+            "GOODBYE_DELETED": "*🥰Goodbye message has been deleted successfully!*",
+            "GOODBYE_SETTED": "*🥰 Goodbye message has been setted successfully!*"
         },
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
@@ -194,22 +194,22 @@
             "ISONG_DESC": "Uploads the song you wrote for ios users.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "DOWNLOADING Z BOT⟹👾",
+            "DOWNLOADING_SONG": "DOWNLOADING Z BOT PLEASE WAIT👾",
             "NAMEY": "NAME",
             "URL": "LINK",
             "THUMB": "THUMB",
             "RATING": "RATING",
-            "UPLOADING_SONG": "*UPLOADING Z BOT⟹👾*",
+            "UPLOADING_SONG": "*UPLOADING Z BOT➢👾*",
             "VIDEO_DESC": "Downloads video from YouTube iMASH BOT🥶.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "*DOWNLOADING Z BOT⟹👾*",
+            "DOWNLOADING_VIDEO": "*DOWNLOADING Z BOT➢👾*",
             "UPLOADING_VIDEO": "*UPLOADING Z BOT*",
-            "LOADING": "*DOWNLOADING YOUR VIDEO Z BOT⟹👾*",
-            "YT_DESC": "It searchs on YouTube Z BOT⟹👾.",
+            "LOADING": "*DOWNLOADING YOUR VIDEO Z BOT➢👾*",
+            "YT_DESC": "It searchs on YouTube Z BOT➢👾.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos iMASH BOT🥶...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "* 🔎 Searching Z BOT⟹👾...*",
+            "SEARCHING": "* 🔎 Searching Z BOT➢👾...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
@@ -217,7 +217,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Converting Z BOT⟹👾..```"
+            "DOWNLOADING": "```Converting Z BOT➢👾..```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -227,26 +227,26 @@
             "TAGALL_DESC": "Tags everyone in the group.",
             "ADMİN": "*Z is not admin in this group!*",
             "SCAN": "Checks whether the entered number is registered on WhatApp.",
-            "NO": "*Please Enter Any Phone Number!*\n*Example:* ```.scan 90xxxx```",
+            "NO": "*Please Enter Any Phone Number!*\n*Example:* ```.scan 94xxxx```",
             "SUC": "*Numbered Person Uses WhatsApp! ✅*",
             "UNSUC": "*Numbered Person Does Not Use WhatsApp! ❌*",
             "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​, 🇮​🇫​ 🇾​🇴​🇺​ 🇹​🇷​🇾​ 🇾​🇴​🇺​ 🇼​🇮​🇱​🇱​ 🇧​🇪​ 🇷​🇪​🇲​🇴​🇻​🇪​🇩​ 🇧​🇾​ 🇦​🇩​🇲​🇮​🇳​🇸​",
             "TAGADMİN": "Tags group admins.",
             "REPORT": "Sends reports to group admins.",
-            "USER": "*===== Warning ⚠️ =====*\n\n*User:* ",
+            "USER": "*===== Warning 😡⚠️ =====*\n\n*User:* ",
             "REASON": "\n*Warn 👉 :* ",
             "REPLY": "*Please Respond to User's Message to Report!*"
         },
         "updater": {
-            "UPDATER_DESC": "Checks the update.",
+            "UPDATER_DESC": "Checks the Z BOT update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
             "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/GOTMCTPCGBuKMeAReNKYuA*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "Updating..💌",
-            "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*Z BOT IS Updated ✅️*",
-            "UPDATED_LOCAL": "*✅ Updated!*",
-            "AFTER_UPDATE": "*iMASH BOT IS Restarting ✅️*",
+            "UPDATING": "Updating..🥰",
+            "INVALID_HEROKU": "*Your Heroku app name or api key wrong🤔!*",
+            "UPDATED": "*Z BOT IS Updated *",
+            "UPDATED_LOCAL": "*Z Updated!*",
+            "AFTER_UPDATE": "*Z BOT IS Restarting *",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -270,7 +270,7 @@
         },
         "weather": {
             "WEATHER_DESC": "Z is shows the weather.",
-            "NEED_LOCATION": "* Please write a location!*\n*Example:* ```.weather Bakü```",
+            "NEED_LOCATION": "* Please write a location!*\n*Example:* ```.weather moratuwa```",
             "LOCATION": "Location",
             "HMOD": "Finds mod apps from happymod",
             "QUOTE_DESC": "It shares famous quotes",
@@ -411,7 +411,7 @@
             "SPAM_DESC": "It spam until you stop it.\n⌨️ Example: .spam test",
             "NEED_WORD": "*Need Some Words!*",
             "STOP_SPAMDESC": "Stops spam command.",
-            "STOP_SPAM": "✅ *Spam successfully stopped! Please wait a moment.*",
+            "STOP_SPAM": "🥵*Spam successfully stopped! Please wait a moment.*",
             "ST_DESC": "Convert the replied photo or video to sticker and send it as spam.",
             "ST_ST": "```Please Don't Reply to Stciker!```\n```Only Reply to Video or Photo!```",
             "ST_NEED": "```You Must Reply To Any Video Or Photo!```",
@@ -472,7 +472,7 @@
         },
         "instagram": {
             "NEED_WORD": "*Please enter username of any instagram account.*",
-            "USAGE": ".insta <userName>",
+            "USAGE": ".insta <userName> ex:imashnidusha",
             "DESC": "Fetches user informations from instagram",
             "LOADING": "*Searching*",
             "USERNAME": "Username",
@@ -485,7 +485,7 @@
             "NOT_FOUND":"User not found: "
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github imash",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
@@ -508,8 +508,8 @@
         },
         "tiktok": {
             "TİKTOK": "Downloads videos from Tiktok.",
-            "NEED": "```You Must Enter Any Tiktok Link!``` \n*Example:* ```.tiktok https://vm.tiktok.com/ZSJY27ExT/```",
-            "DOWN": "```Downloading Media..```",
+            "NEED": "```You Must Enter Any Tiktok Link!``` \n*Example:* ```.tiktok https://vm.tiktok/```",
+            "DOWN": "```Z is Downloading Media..```",
             "CAPTİON": "Title:",
             "USERNAME": "Username:",
             "NAME": "Name:",
@@ -523,11 +523,11 @@
         },
         "lyrics": {
             "LY_DESC": "Finds the lyrics of the song.",
-            "NEED": "```You Must Write Any Song!```",
+            "NEED": "```Please You Must Write Any Song!```",
             "SLY": "Lyrics:",
-            "AUT": "Song Owner:",
+            "AUT": "This Song Owner:",
             "BUL": "Founded Song:",
-            "ARAT": "Searched Song:"
+            "ARAT": "Z BOT Searched Song:"
         },
         "covid": {
             "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
