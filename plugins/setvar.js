@@ -84,7 +84,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
  To change bad word remove list
  .setvar THERI_LIST:badword,badword
 
- To change AMALSER bot name
+ To change Z BOT bot name
  .setvar BOT_NAME:your bot name
 
  To get a song when your number is mentioned
@@ -92,15 +92,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
      *THANCK'S USING Z BOT🤖 ❣️*
 
-*Editing And Devaloper : IMA  -  imash nidusha*
-
-*Erorr Fixing : IMASH NIDUSHA*
-
-*Supporting : IMASH-BOT*
-
-*User Support : iMASH NIDUSHA✨️*
-
-      ═════💢IMASH NIDUSHA💢═════
+CREATED BY IMASH NIDUSHA😎.THANCKS FOR Everything🙊.
 `}) 
 
 }));
